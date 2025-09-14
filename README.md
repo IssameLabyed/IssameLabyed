@@ -20,8 +20,8 @@
 
 ```diff
 + C       + C++     + Node.js
-+ Python  + Puppeteer
-+ WebSockets
++ Python  + Puppeteer + selenium
++ WebSockets + typescript
 ```
 
 ---
@@ -42,12 +42,14 @@
 
 ---
 
-<details>
-  <summary><b>Fun Retro Fact 👾</b></summary>
-  <blockquote>
-    I love blending classic coding vibes with modern tech—if it has a pixel, a shell, or a terminal, I’m at home!
-  </blockquote>
-</details>
+## 📊 GitHub Stats
+![IssameLabyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=IssameLabyed&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IssameLabyed&layout=compact)
+<!--   <summary><b>Fun Retro Fact 👾</b></summary> -->
+<!--   <blockquote> -->
+<!--     I love blending classic coding vibes with modern tech—if it has a pixel, a shell, or a terminal, I’m at home! -->
+<!--   </blockquote> -->
+<!-- </details> -->
 
 <!--
 Retro, green, and ready to code!
