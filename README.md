@@ -3,7 +3,7 @@
 <h1 align="center" style="color:#3E885B;">👾 Issame Labyed 👾</h1>
 <p align="center">
   <b>Software Engineer to be</b><br>
-  <span style="color:#3E885B;">Building future tech with a retro spirit!</span>
+  <span style="color:#3E885B;">I'm a motivated software engineering student from 1337 Coding School, passionate about building innovative solutions with C, C++, Docker, and Node.js. I thrive in collaborative, peer-learning environments and enjoy hands-on development, aiming to contribute to impactful projects and drive technological progress.</span>
 </p>
 
 ---
