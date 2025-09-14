@@ -29,7 +29,7 @@
 ## 🚀 Featured Projects
 - 🎨 [Portfolio](https://github.com/IssameLabyed/Portfolio)
 - 🕹️ [Retro Pong](https://github.com/mou4d/retro-pong)
-- 💡 [cub3d]([https://github.com/IssameLabyed/ki](https://github.com/Sbahdi/cub3d_with_picola))
+- 💡 [cub3d](https://github.com/Sbahdi/cub3d_with_picola)
 - 💬 [ft_IRC](https://github.com/Pipors/ft_IRC)
 
 ---
